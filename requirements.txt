@@ -1,0 +1,7 @@
+pandas
+numpy
+sklearn
+matplotlib
+plotly.express
+pcse
+xgboost
